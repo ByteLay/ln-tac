@@ -9,5 +9,5 @@ This index.html file is open-source, But Remember these lines.
 # LayNote
 LayNote is an notepad app, You can save your notes offline and online. LayNote is free, But closed-source.
 
-#Contact
+# Contact
 contactbytelay@gmail.com
