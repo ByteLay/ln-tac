@@ -5,6 +5,7 @@ This index.html file is open-source, But Remember these lines.
 2.You can modifiy it by creating a new index.html file and paste the code in it.
 3.Free to use it.
 4.But don't modify the original file.
+5.The app_icon.png is closed-source  (only index.html is open-source)
 
 # LayNote
 LayNote is an notepad app, You can save your notes offline and online. LayNote is free, But closed-source.
